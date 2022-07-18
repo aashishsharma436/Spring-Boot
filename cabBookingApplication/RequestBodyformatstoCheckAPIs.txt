@@ -1,0 +1,47 @@
+to Save the user
+
+{
+    "name": "ABCD",
+    "age": 22,
+    "phone" : 123456789,
+    "longitude" : 1234,
+    "latitude" : 4687
+}
+
+to save the driver
+
+{
+    "name": "ABCD",
+    "age": 22,
+    "phone" : 123456789,
+    "longitude" : 1234,
+    "latitude" : 4687
+}
+
+to Update driver status
+{
+    "id": 6,
+    "active" : true
+}
+
+to update location
+{
+	"id":6
+    "latitude": 1233,
+    "longitude" :4587,
+}
+
+to find the ride
+
+{
+    "latitude": 1233,
+    "longitude" :4587,
+    "dlatitude": 4687,
+    "dlongitude": 1234
+}
+
+select driver
+{
+    "id" : 4,
+    "amount": 3403.0
+}
